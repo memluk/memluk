@@ -2,7 +2,7 @@
 - 👀 I’m interested in Coding
 - 🌱 I’m currently learning JavaScript
 - 💞️ I’m looking to collaborate on Coding in HTML-CSS, JavaScript and Python
-- 📫 How to reach me memlukm@gmail.com
+- 📫 How to reach me memluk@gmail.com
 
 <!---
 memluk/memluk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
