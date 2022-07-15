@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @memluk
-- 👀 I’m interested in Coding
-- 🌱 I’m currently learning JavaScript
-- 💞️ I’m looking to collaborate on Coding in HTML-CSS, JavaScript and Python
-- 📫 How to reach me memluk@gmail.com
+- 👀 I’m interested in web development
+- 💞️ I use HTML-CSS, JavaScript and React to code
+- 📫 You can reach me through memluk@gmail.com
 
 <!---
 memluk/memluk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
