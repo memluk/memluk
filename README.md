@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @memluk
-- 👀 I’m interested in web & software development
-- 💞️ I use HTML-CSS, JavaScript and React for web development and Java for applications
+- 👀 I’m interested in web & software development and playing chess.
+- 💞️ I use HTML-CSS, JavaScript and React for frontend development and Java for applications
 - 📫 You can reach me through memluk@gmail.com
 
 <!---
